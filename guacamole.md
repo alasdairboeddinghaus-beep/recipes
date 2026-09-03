@@ -7,6 +7,7 @@
 * salt
 * red onion
 * tomatos
+* 2 apples
 
 ##Instructions
 * Do not make guacamole on Saturdays

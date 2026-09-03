@@ -1,2 +1,6 @@
 #Guacamole
-##Instruction
+##Ingredients
+* avocado
+* lime
+* salt
+##Instructions
